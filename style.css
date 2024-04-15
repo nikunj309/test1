@@ -1,0 +1,12 @@
+.h2{
+    text-align: center;
+}
+.error-icon {
+    display: none;
+    color: red;
+    cursor: pointer;
+}
+
+.error-icon:hover {
+    color: darkred;
+}
